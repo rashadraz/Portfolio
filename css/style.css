@@ -5,7 +5,7 @@
     scroll-behavior: smooth;
 }
 
-/* Custom Properties, update these for your own design */
+
 
 :root {
     --ff-primary: 'Source Sans Pro', sans-serif;
@@ -38,10 +38,6 @@
 
 /* General styles */
 
-/* endable this to add smooth scrolling */
-/* html {
-    scroll-behavior: smooth;
-} */
 
 
 body {
